@@ -135,5 +135,3 @@ _NCrunch*
 .vs/
 
 Properties/
-*/src/appsettings.json
-*/src/appsettings.Development.json
